@@ -2,6 +2,11 @@
 
 > 紀錄專案更新內容
 
+## 伺服器相關
+
+domain: nameCheap
+ssl: zeroSSL
+
 ## 網頁相關
 
 - 將天氣預報頁面，部分功能建立成 Component
